@@ -12,4 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
         //This sms updated my my update.
     }
+
+    public void myFunction() {
+        //Function added by me
+    }
 }
